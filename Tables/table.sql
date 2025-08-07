@@ -6,7 +6,6 @@ CREATE TABLE students (
     course VARCHAR(100),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
 -- Show tables
 SHOW TABLES;
 
